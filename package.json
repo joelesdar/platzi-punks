@@ -1,0 +1,25 @@
+{
+  "name": "platzi-punks",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de Dapps: Introducción al desarrollo de aplicaciones descentralizadas",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "@joelesdar",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.10.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
