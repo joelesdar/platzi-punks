@@ -4,13 +4,13 @@
   "description": "Proyecto del curso de Dapps: Introducción al desarrollo de aplicaciones descentralizadas",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/joelesdar/platzi-punks/"
   },
   "keywords": [],
   "author": "@joelesdar",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/joelesdar/platzi-punks/issues"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^1.0.1",
