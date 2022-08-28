@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Platzi Punks Contracts
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Este es el proyecto del curso de Introducción de DApps de Platzi. Consiste en contratos que permiten generar y mintear personajes Platzi Punks aleatorios.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+(Contrato en Etherscan)[https://rinkeby.etherscan.io/address/0x4b86054b0e43A54bcc6C92f3EB1018D1A90E0f0B#code] 
